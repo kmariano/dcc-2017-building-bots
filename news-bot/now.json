@@ -1,0 +1,15 @@
+{
+  "name": "dcc2017-demo-bot",
+  "type":"npm",
+  "env":{
+    "MS_APP_ID": "@ms_app_id",
+    "MS_APP_SECRET": "@ms_app_secret",
+    "LUIS_SUBSCRIPTION_KEY": "@luis_subscription_key",
+    "GENIUS_ACCESS_TOKEN": "@genius_access_token",
+    "PORT": 3000
+  },
+  "alias": "dcc2017-demo-bot",
+  "engines":{
+    "node": "^8.7.0"
+  }
+}
